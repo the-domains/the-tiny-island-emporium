@@ -1,0 +1,28 @@
+name: The Tiny Island Emporium
+favicon: null
+layout_spectrum: 0.5341734304092824
+typography_spectrum: 0.9444104032590985
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.1148071673233062
+  lightness: 0.13399617583490908
+  saturation: 0.3842661860398948
+  rhythmicContrast: 0.6584384019952267
+purpose: []
